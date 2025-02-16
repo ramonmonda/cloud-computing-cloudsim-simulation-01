@@ -1,6 +1,7 @@
 {
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "/home/byte/Documents/Study/3 - Colleges/2 - Anhanguera/Ciência da Computação/2 - Semestres/2 - Semestre/1 - Computação em Nuvem/2 - Arquivos/1 - Unidade 1/Atividade Prática/cc-unidade01-atividade-pratica/cloudsim-3.0.3/jars/cloudsim-3.0.3.jar"
+        "lib/**/*.jar"
     ]
 }
